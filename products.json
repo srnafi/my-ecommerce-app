@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "image": "images/chair1.png",
+    "name": "ErgoFlex Chair",
+    "price": 199.99,
+    "oldPrice": 350.0,
+    "offer": "30% OFF",
+    "desc": "Ergonomic chair with flexible backrest.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 2,
+    "image": "images/chair2.png",
+    "name": "ComfortPro Recliner",
+    "price": 299.99,
+    "oldPrice": 450.0,
+    "offer": "33% OFF",
+    "desc": "Premium recliner with adjustable headrest.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 3,
+    "image": "images/chair3.png",
+    "name": "TechChair Plus",
+    "price": 159.99,
+    "oldPrice": 320.0,
+    "offer": "50% OFF",
+    "desc": "Tech-friendly chair with built-in USB ports.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 4,
+    "image": "images/chair4.png",
+    "name": "ZenRock Chair",
+    "price": 99.99,
+    "oldPrice": 200.0,
+    "offer": "40% OFF",
+    "desc": "Minimalist design for ultimate comfort.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 5,
+    "image": "images/chair5.png",
+    "name": "LuxLounge Executive Chair",
+    "price": 499.99,
+    "oldPrice": 700.0,
+    "offer": "20% OFF",
+    "desc": "Executive leather chair with footrest.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 6,
+    "image": "images/chair6.png",
+    "name": "ChillZone Bean Bag",
+    "price": 49.99,
+    "oldPrice": 100.0,
+    "offer": "50% OFF",
+    "desc": "Cozy bean bag for all-day relaxation.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 7,
+    "image": "images/chair7.png",
+    "name": "StudioPro Task Chair",
+    "price": 89.99,
+    "oldPrice": 180.0,
+    "offer": "45% OFF",
+    "desc": "Perfect for office or creative workspaces.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 8,
+    "image": "images/chair8.png",
+    "name": "VibeChair Modern",
+    "price": 129.99,
+    "oldPrice": 250.0,
+    "offer": "48% OFF",
+    "desc": "Modern chair with stylish design.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 9,
+    "image": "images/chair9.png",
+    "name": "CloudComfort Chair",
+    "price": 189.99,
+    "oldPrice": 400.0,
+    "offer": "52% OFF",
+    "desc": "Soft cushioned chair for long sitting hours.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 10,
+    "image": "images/chair10.png",
+    "name": "AirMesh Chair",
+    "price": 79.99,
+    "oldPrice": 160.0,
+    "offer": "50% OFF",
+    "desc": "Breathable mesh chair with lumbar support.",
+    "addToCartButton": "Add to cart"
+  },
+  {
+    "id": 11,
+    "image": "images/chair11.png",
+    "name": "VelvetTouch Chair",
+    "price": 149.99,
+    "oldPrice": 300.0,
+    "offer": "50% OFF",
+    "desc": "Luxurious velvet finish with padded arms.",
+    "addToCartButton": "Add to cart"
+  }
+]
